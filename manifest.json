@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "modelcontextprotocol",
+  "repo": "experimental-ext-triggers-events",
+  "versions": [
+    {
+      "commit": "6682596d65eec778fe0b8b1f43b4e89d2fe2c546",
+      "parsed_at": "2026-10-09T03:53:08.788285+00:00",
+      "tag": "main",
+      "filetree": "filetree/6682596d65eec778fe0b8b1f43b4e89d2fe2c546.nq.gz",
+      "blobs": [
+        "blob/d6b130cf3de22c031b818e6f8d8ec358d2ad9987.nq.gz",
+        "blob/d1b78ec21cf27924d738797d91434b5590e8ab51.nq.gz",
+        "blob/a8cf76ccde0ec0eacf8b8ea686f53cbff50f0208.nq.gz",
+        "blob/97a4db96d7352fce0aa27eebd24438a0dc078fc5.nq.gz",
+        "blob/631e6355f77d0070283ecf97e081e42d35beb76e.nq.gz",
+        "blob/5c74e84974b913e5ddc7fde14e9eb6ddb4aae81b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
