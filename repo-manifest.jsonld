@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/experimental-ext-triggers-events/commit/6682596d65eec778fe0b8b1f43b4e89d2fe2c546",
       "git:hexsha": "6682596d65eec778fe0b8b1f43b4e89d2fe2c546",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
