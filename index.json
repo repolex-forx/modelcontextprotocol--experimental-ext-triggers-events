@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "experimental-ext-triggers-events",
+  "versions": [
+    {
+      "commit": "6682596d65eec778fe0b8b1f43b4e89d2fe2c546",
+      "tag": "main",
+      "parsed_at": "2026-10-09T04:05:38.994955+00:00"
+    }
+  ]
+}
